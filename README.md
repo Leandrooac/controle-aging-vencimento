@@ -2,7 +2,7 @@
 
 ## Contexto
 
-Atuando em Assuntos Regulatórios e Qualidade em uma distribuidora de produtos para saúde, era necessário acompanhar a proximidade de vencimento de um portfólio de aproximadamente **2.241 SKUs**. As informações de validade existiam em um sistema ERP interno e caseiro, mas sem classificação de risco nem canal de distribuição estruturado para as áreas que precisavam agir — principalmente vendas e gerência.
+Atuando em Assuntos Regulatórios e Qualidade em uma distribuidora de produtos para saúde, era necessário acompanhar a proximidade de vencimento de um portfólio de aproximadamente **2.241 SKUs**. As informações de validade existiam em um sistema ERP interno e caseiro, mas sem classificação de risco nem canal de distribuição estruturado para as áreas que precisavam agir, principalmente vendas e gerência.
 
 O risco de negócio era direto: produtos vencendo sem que a equipe comercial tivesse visibilidade a tempo de agir (promoção, redistribuição ou saída antecipada), gerando perda de estoque.
 
@@ -21,7 +21,7 @@ O risco de negócio era direto: produtos vencendo sem que a equipe comercial tiv
 | 365 a 730 | Acompanhar |
 | Acima de 730 | Adequado |
 
-> Faixas reconstruídas de memória, para fins de documentação da lógica geral — os parâmetros exatos utilizados internamente pela empresa de origem são confidenciais.
+> Faixas reconstruídas de memória, para fins de documentação da lógica geral, os parâmetros exatos utilizados internamente pela empresa de origem são confidenciais.
 
 4. **Distribuição**: envio periódico do controle consolidado para gerência e equipes de vendas interna e externa, apoiando decisões de promoção e priorização de saída de estoque.
 
@@ -36,4 +36,4 @@ Adoção contínua pelas áreas comercial e de gerência como parte da rotina de
 
 ## Sobre os dados neste repositório
 
-Nenhum dado real de produtos, fornecedores ou volumes está incluído — nome do sistema de origem, valores e identificação de produtos são informações confidenciais. Este repositório documenta a metodologia do processo, não uma cópia do controle original.
+Nenhum dado real de produtos, fornecedores ou volumes está incluído, nome do sistema de origem, valores e identificação de produtos são informações confidenciais. Este repositório documenta a metodologia do processo, não uma cópia do controle original.
